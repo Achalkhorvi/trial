@@ -2,3 +2,4 @@
 "this is my edited file in feature1"
 "this is my name"
 "this is my file"
+"hello"
